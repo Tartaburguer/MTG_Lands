@@ -1,5 +1,6 @@
 # MTG_Lands
 ESPECIALIZAÇÃO EM ENGENHARIA DE DADOS
+
 Projeto da disciplina Redes Neurais
 O projeto de conclusão da disciplina de Redes Neurais, consiste na construção (e treinamento) de um modelo de classificador de imagens.
 
@@ -12,6 +13,7 @@ Equipe: Renato Lopes
 Janeiro / 2022
 
 Montagem do Dataset
+
 Para a construção do dataset customizado foi utilizado imagens de cards de terreno basico do jogo de cartas Magic the gathering.
 
 As imagens foram baixadas do site https://mtgrex.com/?land=plains&land=island&land=swamp&land=mountain&land=forest&perPage=100 mas existem uma infinidade de sites onde é possivel baixar imagem de cartas do jogo
