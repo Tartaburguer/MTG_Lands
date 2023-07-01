@@ -24,6 +24,6 @@ Após o download das imagens as mesmas foram separadas em cinco categorias de te
 
 Mountain - Swamp - Plains - Island - Florest
 
-Após a separação nos folders de cada categoria, foi criado o github com o dataset https://github.com/RenatoDLopes/MTG_Lands
+Após a separação nos folders de cada categoria, foi criado o github com o dataset https://github.com/Tartaburguer/MTG_Lands
 
 Para treinar a rede neural é só executar em ordem sequencial os codigos do phyton.
